@@ -38,15 +38,13 @@ input[type="submit"]{
     margin: 0px 0px 15px 60px;
     width: 120px;
     height: 32px;
-    background: #eab103;
-    border: none;
+    background: #cfcfcf;
     border-radius:2px;
     color: #fff;
     font-family: "Raleway", sans-serif;
     font-weight: 500;
     text-transform: 0.2s ease;
     cursor: pointer;
-    
 }
 
 input[type="submit"]:hover,
@@ -58,7 +56,7 @@ input[type="submit"]:focus{
 #login-box {
     width: 320px;
     height: 443px;
-    background: #677e4d;
+    background: #bfbfbf;
     color: #fff;
     top: 50%;
     left: 50%;
@@ -87,7 +85,7 @@ button.social{
     margin: 10px 0px 10px 60px;
     width: 120px;
     height: 32px;
-    background: #eab103;
+    background: #cfcfcf;
     border: none;
     border-radius:2px;
     color: #fff;
